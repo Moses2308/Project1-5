@@ -1,0 +1,29 @@
+.about-img {
+  background-image: url(images/elco.jpg);
+  background-size: cover;
+  background-position: 50% 50%;
+  min-height: 300px;
+  border-radius: 0.5rem;
+}
+.hobbies-img {
+  background-image: url(images/shavings.jpg);
+  background-size: cover;
+  background-position: 50% 40%;
+  min-height: 300px;
+  border-radius: 0.5rem;
+  border-radius: 0.5rem;
+}
+#carouselExampleControls img {
+  border-radius: 0.5rem;
+  height: 450px;
+  object-fit: cover;
+}
+#quoteCarousel img {
+  height: 450px;
+  border-radius: 0.5rem;
+  object-fit: cover;
+}
+.card img {
+  height: 15rem;
+  object-fit: cover;
+}
